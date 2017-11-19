@@ -66,5 +66,6 @@ So we hold all of our data in one place.  When we want to update it, we send an 
 ## Resources
 * [Redux Justification - Dan Abramov](https://www.youtube.com/watch?v=xsSnOQynTHs)
 * [Looking back at Redux - Dan Abramov](https://www.youtube.com/watch?v=uvAXVMwHJXU)
+* [What Does Redux Do? (and when should you use it?)](https://daveceddia.com/what-does-redux-do/)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/why-redux'>Why Redux</a> on Learn.co and start learning to code for free.</p>
